@@ -1,3 +1,10 @@
+REM Author: MAD
+REM Description: This script installs the current firmware from the official FlipperZero GitHub repository and the application_user from the Matthias1987 repository. The script is written in PowerShell and is executed automatically. The script is written in German.
+REM Target: Windows
+REM Dependencies: PowerShell
+REM Version: 1.0
+REM Title: MAD Install Firmware GitHub
+REM TEST I.O.
 GUI r
 DELAY 1000
 STRING powershell
